@@ -1,0 +1,29 @@
+2025-11-23 20:01:13,821 - INFO - SESION: Aplicación iniciada
+2025-11-23 20:01:13,840 - INFO - Window: Provider: sdl2
+2025-11-23 20:01:14,020 - INFO - GL: Using the "OpenGL" graphics system
+2025-11-23 20:01:14,021 - INFO - GL: GLEW initialization succeeded
+2025-11-23 20:01:14,021 - INFO - GL: Backend used <glew>
+2025-11-23 20:01:14,021 - INFO - GL: OpenGL version <b'4.6.0 - Build 30.0.101.2079'>
+2025-11-23 20:01:14,022 - INFO - GL: OpenGL vendor <b'Intel'>
+2025-11-23 20:01:14,022 - INFO - GL: OpenGL renderer <b'Intel(R) UHD Graphics'>
+2025-11-23 20:01:14,022 - INFO - GL: OpenGL parsed version: 4, 6
+2025-11-23 20:01:14,023 - INFO - GL: Shading version <b'4.60 - Build 30.0.101.2079'>
+2025-11-23 20:01:14,023 - INFO - GL: Texture max size <16384>
+2025-11-23 20:01:14,023 - INFO - GL: Texture max units <32>
+2025-11-23 20:01:14,055 - INFO - Window: auto add sdl2 input provider
+2025-11-23 20:01:14,057 - INFO - Window: virtual keyboard not allowed, single mode, not docked
+2025-11-23 20:01:14,061 - INFO - Base: Start application main loop
+2025-11-23 20:01:14,063 - INFO - GL: NPOT texture support is available
+2025-11-23 20:01:15,624 - INFO - EVENTO: Botón presionado. Total clics: 1
+2025-11-23 20:01:16,003 - INFO - EVENTO: Botón presionado. Total clics: 2
+2025-11-23 20:01:16,598 - INFO - EVENTO: Botón presionado. Total clics: 3
+2025-11-23 20:01:16,978 - INFO - EVENTO: Botón presionado. Total clics: 4
+2025-11-23 20:01:17,476 - INFO - EVENTO: Botón presionado. Total clics: 5
+2025-11-23 20:01:17,857 - INFO - EVENTO: Botón presionado. Total clics: 6
+2025-11-23 20:01:17,883 - INFO - EVENTO: Botón presionado. Total clics: 7
+2025-11-23 20:01:18,580 - INFO - EVENTO: Botón presionado. Total clics: 8
+2025-11-23 20:01:19,336 - INFO - EVENTO: Botón presionado. Total clics: 9
+2025-11-23 20:01:21,502 - INFO - EVENTO: Botón presionado. Total clics: 10
+2025-11-23 20:01:22,710 - INFO - Base: Leaving application in progress...
+2025-11-23 20:01:22,710 - INFO - SESION: Aplicación cerrada. Duración total: 8.89 segundos
+2025-11-23 20:01:22,710 - INFO - ------------------------------

@@ -1,0 +1,4 @@
+.buildozer/
+kivy_wsl_env/
+__pycache__/
+*.pyc
