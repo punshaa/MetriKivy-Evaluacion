@@ -217,7 +217,7 @@ Las capturas de pantalla de la aplicación se encuentran en la carpeta `screensh
 
 ### Pantalla Principal
 
-![Pantalla Principal](./screenshots/main_screen.png)
+![Pantalla Principal](screenshots/main_screen.png)
 
 *Vista inicial de la aplicación mostrando el título, contador de clics y timer de sesión*
 
