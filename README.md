@@ -343,7 +343,7 @@ Las contribuciones son bienvenidas. Para contribuir al proyecto:
 
 ### Repositorio
 
-- **Repositorio**: [GitHub - MetriKivy](https://github.com/usuario/metrikivy) *(actualizar con la URL real)*
+- **Repositorio**: [GitHub - MetriKivy[](https://github.com/usuario/metrikivy](https://github.com/punshaa/MetriKivy-Evaluacion.git)) 
 
 ## 📝 Licencia
 
