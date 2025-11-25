@@ -217,25 +217,25 @@ Las capturas de pantalla de la aplicación se encuentran en la carpeta `screensh
 
 ### Pantalla Principal
 
-<img src="https://github.com/punshaa/MetriKivy-Evaluacion/raw/main/screenshots/main_screen.png" alt="Pantalla Principal" width="600"/>
+![Pantalla Principal](./screenshots/main_screen.png)
 
 *Vista inicial de la aplicación mostrando el título, contador de clics y timer de sesión*
 
 ### Aplicación en Uso
 
-<img src="https://github.com/punshaa/MetriKivy-Evaluacion/raw/main/screenshots/metrics_display.png" alt="Métricas en Acción" width="600"/>
+![Métricas en Acción](./screenshots/metrics_display.png)
 
 *Aplicación registrando eventos y mostrando métricas en tiempo real*
 
 ### Vista en Android
 
-<img src="https://github.com/punshaa/MetriKivy-Evaluacion/raw/main/screenshots/android_screen.png" alt="Aplicación Android" width="600"/>
+![Aplicación Android](./screenshots/android_screen.png)
 
 *MetriKivy ejecutándose en un dispositivo Android*
 
 ### Logs Generados
 
-<img src="https://github.com/punshaa/MetriKivy-Evaluacion/raw/main/screenshots/logs_example.png" alt="Archivo de Logs" width="600"/>
+![Archivo de Logs](./screenshots/logs_example.png)
 
 *Ejemplo del archivo de logs generado por la aplicación*
 
