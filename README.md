@@ -217,22 +217,26 @@ Las capturas de pantalla de la aplicación se encuentran en la carpeta `screensh
 
 ### Pantalla Principal
 
-![Pantalla Principal](screenshots/main_screen.png)
+<img src="screenshots/main_screen.png" alt="Pantalla Principal" width="600"/>
+
 *Vista inicial de la aplicación mostrando el título, contador de clics y timer de sesión*
 
 ### Aplicación en Uso
 
-![Métricas en Acción](screenshots/metrics_display.png)
+<img src="screenshots/metrics_display.png" alt="Métricas en Acción" width="600"/>
+
 *Aplicación registrando eventos y mostrando métricas en tiempo real*
 
 ### Vista en Android
 
-![Aplicación Android](screenshots/android_screen.png)
+<img src="screenshots/android_screen.png" alt="Aplicación Android" width="600"/>
+
 *MetriKivy ejecutándose en un dispositivo Android*
 
 ### Logs Generados
 
-![Archivo de Logs](screenshots/logs_example.png)
+<img src="screenshots/logs_example.png" alt="Archivo de Logs" width="600"/>
+
 *Ejemplo del archivo de logs generado por la aplicación*
 
 
